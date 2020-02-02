@@ -1,2 +1,3 @@
 # It-s-Time
 Let's give GitHub a try
+I'm just a everyday normal ...
